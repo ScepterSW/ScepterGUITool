@@ -1,0 +1,10 @@
+V1.0.6
+1.Match with ScepterSDK V1.0.6
+
+V1.0.5
+1.Match with ScepterSDK V1.0.5
+2.Optimizate UI
+
+V1.0.4
+1.Match with ScepterSDK V1.0.4 
+2.Support NYX650
