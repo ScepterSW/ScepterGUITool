@@ -13,6 +13,7 @@ https://gitee.com/ScepterSW
 ## 2 Supported platforms
 
 -Windows: Win7/Win10/Win11 
+-Ubuntu: 18.04/20.04/22.04
 
 ## 3 Summary Of The Guidelines
 
