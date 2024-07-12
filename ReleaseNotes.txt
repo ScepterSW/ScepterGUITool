@@ -1,3 +1,15 @@
+V1.1.4
+1.Match with ScepterSDK V1.1.4
+
+V1.1.3
+1.Match with ScepterSDK V1.1.3
+
+V1.1.2
+1.Match with ScepterSDK V1.1.2
+
+V1.1.1
+1.Match with ScepterSDK V1.1.1
+
 V1.0.9
 1.Optimizate upgrae with mult cameras
 2.Support set params by json file
