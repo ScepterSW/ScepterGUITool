@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=1.1.4
+Name=ScepterGUITool
+Comment=Run ScepterGUITool
+Icon=INSTALLPATH/ScepterGUITool/Scepter.png
+Exec=INSTALLPATH/ScepterGUITool/ScepterGUITool
+Terminal=false
+Name[en_US]=ScepterGUITool
