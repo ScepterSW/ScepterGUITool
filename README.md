@@ -18,4 +18,5 @@ https://gitee.com/ScepterSW
 
 ## 3 Summary Of The Guidelines
 
-For more information, see the wiki at **https://sceptersw.github.io/Scepter-Wiki/#/zh-cn/ScepterGUITool/Overview**.
+For more information, see the wiki at https: https://wiki.vzense.com/#/
+
